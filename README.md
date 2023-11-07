@@ -1,12 +1,13 @@
 # Hospital Database Management System
-Repository of **Semester Project** for  
-**CSE205-Information Technology Workshop II (ITW2)**
+
 
 By :-  
 **Rohan Saha** | Roll No. **20085086** | Electrical (EEE)  
 **Harsh Mahesheka** | Roll No. **20084008** | Electrical (EEE)  
 ITW2 Lab Group No. 74  
 
+Repository of **Semester Project** for  
+**CSE205-Information Technology Workshop II (ITW2)**  
 
 ## Steps to Run this Project Locally-
 - Install Python (Dont Forget to Tick Add to Path while installing Python)
